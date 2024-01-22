@@ -1,0 +1,1 @@
+# stripApp-backend
