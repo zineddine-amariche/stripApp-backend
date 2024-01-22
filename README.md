@@ -1,1 +1,1 @@
-# stripApp-backend
+# bo-backend
